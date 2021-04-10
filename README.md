@@ -1,5 +1,5 @@
-# Document-Clustering-and-Topic-Modeling
-Cluster unlabeled documents into different groups and identify their latent topics
+# Document-Clustering-and-Topic-Modeling-on-Watches-User-Reviews
+Cluster unlabeled documents into different groups and identify their latent topics based on user review of watches
 
 In this project, we use unsupervised learning models to cluster unlabeled documents into different groups, visualize the results and identify their latent topics/structures.
 
